@@ -1,0 +1,14 @@
+@import "_reset", "_fonts";
+
+body {
+  font-family: 'Montserrat', serif;
+  font-size: 14px;
+  line-height: 1;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 150px;
+}
